@@ -47,11 +47,7 @@
 				"title": "Internet Explorer",
 				"icon": "programs/Web Explorer/1.png",
 				"file": "programs/Web Explorer/we.js"
-			}, {
-				"title": "System Test",
-				"icon": "webdows/resources/icons/scre.ico",
-				"file": "test.js"
-			},   {
+			}, { 
 				"title": "Hello world",
 				"icon": "webdows/resources/icons/scre.ico",
 				"file": "webdows/hello.js"

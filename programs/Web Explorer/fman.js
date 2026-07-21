@@ -8,7 +8,7 @@ new explorer.window()
 .resize(800, 445)
 .center()
 .title('File Manager')
-.icon('programs/FileManager/fman.png')
+.icon('programs/FileManager/1.png')
 .callback(function() {
 	var win = this;
 	this.body
@@ -40,7 +40,7 @@ iframe  {float:left; height:100%; width:100%;}
   </tr>
   <tr>
       <td class="content">
-      <iframe src="http://cdn.floydcraft.co.uk/finder/finder/elfinder.legacy.html" style="width:100%;height:100%;border:none;" frameborder="0" scrolling="no"></iframe>
+      <iframe src="https://browser.rammerhead.org" style="width:100%;height:100%;border:none;" frameborder="0" scrolling="no"></iframe>
     </td>
   </tr>
 </table>

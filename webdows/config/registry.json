@@ -51,6 +51,10 @@
 				"title": "System Test",
 				"icon": "webdows/resources/icons/scre.ico",
 				"file": "test.js"
+			},   {
+				"title": "Hello world",
+				"icon": "webdows/resources/icons/scre.ico",
+				"file": "webdows/hello.js"
 			}
 		]
     },
